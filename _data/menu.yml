@@ -3,6 +3,4 @@ navbar-links:
   Accueil: ""
   Cours: "cours"
   Exercices: "td"
-  Vie de Classe: "vieclasse"
-  Devoirs: "devoirs"
-  Informatique: "https://lgarcin.github.io/CoursPythonCPGE/"
+  Concours: "concours"
